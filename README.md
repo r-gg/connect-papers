@@ -4,8 +4,6 @@
 
 **ResearchGate Scraper for visualizing reference relationships among papers from the input list**
 
----
-
 ## Usage
 Put the surveyed papers in papers.txt. After running the notebook the graph is going to be saved in test.html and graph.html
 
